@@ -1,0 +1,40 @@
+2024-01-20 16:40:36 ICT LOG:  database system was interrupted; last known up at 2024-01-20 16:39:56 ICT
+2024-01-20 16:40:36 ICT LOG:  database system was not properly shut down; automatic recovery in progress
+2024-01-20 16:40:36 ICT LOG:  record with zero length at 0/90D1010
+2024-01-20 16:40:36 ICT LOG:  redo is not required
+2024-01-20 16:40:36 ICT LOG:  database system is ready to accept connections
+2024-01-20 16:40:36 ICT LOG:  autovacuum launcher started
+2024-01-20 16:41:14 ICT ERROR:  could not obtain lock on row in relation "res_users"
+2024-01-20 16:41:14 ICT STATEMENT:  SELECT id FROM res_users WHERE id=1 FOR NO KEY UPDATE NOWAIT
+2024-01-20 17:00:49 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:00:49 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:00:49 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:00:49 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:00:49 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:00:49 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:21:48 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:21:48 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:21:48 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:21:48 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:22:12 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:22:12 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:22:12 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:23:33 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:23:33 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
+2024-01-20 17:23:33 ICT LOG:  could not receive data from client: No connection could be made because the target machine actively refused it.
+	
